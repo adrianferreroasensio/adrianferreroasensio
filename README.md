@@ -1,12 +1,12 @@
-<h1 align="left">Hello world!</h1>
+<h1 align="left">Adrian Ferrero Asensio</h1>
 
 ###
 
-<p align="left">My name is Adrian and I'm an Aspiring Software Developer living in Florida.</p>
+<p align="left">Aspiring software developer building practical web projects and gradually expanding into full-stack development.</p>
 
 ###
 
-<p align="left">✨ Started my coding journey in 2023<br>📚 I'm currently learning Express.js<br>🎯 Aiming to transition my career in Finance into Software Development</p>
+<p align="left">✨ Building projects consistently since 2023<br>📚 Currently learning Express.js and backend fundamentals<br>🎯 Focused on developing real-world web applications</p>
 
 ###
 
@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" background="#FFF" height="40" alt="expressjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="expressjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
